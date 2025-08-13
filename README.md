@@ -13,3 +13,5 @@ This project implements a client-server based password manager in Java, focusing
 - SQLite (user database)
 - AES-256 (encryption)
 - SHA-256 (password hashing)
+
+## More information and reflections is given in "assignment2.pdf"
