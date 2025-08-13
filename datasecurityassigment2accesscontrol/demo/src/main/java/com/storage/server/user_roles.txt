@@ -1,0 +1,7 @@
+Alice: Manager
+Bob: Technician
+Cecilia: PowerUser
+David: OrdinaryUser
+Erica: OrdinaryUser
+Fred: OrdinaryUser
+George: OrdinaryUser

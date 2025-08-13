@@ -1,0 +1,5 @@
+Manager: ALL
+Technician: start, stop, restart
+Janitor: status, readConfig, setConfig
+PowerUser: print, queue, topQueue, restart
+OrdinaryUser: print, queue
